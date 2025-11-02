@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @theviking7118
-- 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ... Andoroid Studio
+- 👋 Hi, I’m @theviking7118 aka Yash Patel
+- 👀 I’m interested in ... Android Development, Game Development, 3D Art, Graphic Designing
+- 🌱 I’m currently learning ... Andoroid Studio, Godot, Blender, Graphic Designing
 - 💞️ I’m looking to collaborate on ... Figma Projects
-- 📫 How to reach me ... 
+- 📫 How to reach me ... Mail Me - patelyash7118@gmail.com
 - 😄 Pronouns: ... he / him
 - ⚡ Fun fact: ... 
 
